@@ -1,0 +1,30 @@
+{
+  "name": "AngularJSExpress",
+  "version": "1.0.0",
+  "description": "A simple contact managment app made for Angular JS / Express Training base on tutsplus tutorial by Andrew Burgess",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "bourne": "^0.4.0",
+    "express": "^4.10.4",
+    "express-session": "^1.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janipericon/AngularJSExpress.git"
+  },
+  "keywords": [
+    "AngularJS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janipericon/AngularJSExpress/issues"
+  },
+  "homepage": "https://github.com/janipericon/AngularJSExpress"
+}
